@@ -1434,6 +1434,12 @@ sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "
 top
 ```
 
+#### Enhanced Process Viewer in Terminal
+```bash
+brew install htop
+htop
+```
+
 #### Purge memory cache
 ```bash
 sudo purge
